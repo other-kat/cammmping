@@ -1,0 +1,85 @@
+/*header style*/
+header {
+   text-align: center; 
+   padding: 20px;
+   color: #ADD8E6;
+   background-color: #000000;
+   background-image: url("trees2.jpg");
+   font-size: 2vw;
+   font-family: sans-serif;
+}
+/*creating the two-column layout*/
+*{
+   box-sizing: border-box;
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   font-size: medium;
+   font-size: 2vw;
+   Padding: 10px;
+   background-image: url("trees1.jpg");
+   font-family: sans-serif;
+   color: #ADD8E6;
+   accent-color: #000000;
+}
+/*main style*/
+main {
+   text-align: left;
+   margin-left: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   color: #7b0252;
+   background-image: url("trees1.jpg");
+   font-family: sans-serif;
+}
+/*body style*/
+body {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   color: #ADD8E6;
+   background-image: url("trees1.jpg");
+   font-family: sans-serif;
+}
+/*alert style*/
+alert {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   font-family: sans-serif;
+}
+   /*navigation bar button style*/
+}
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+a {
+   color: #3e7e00;
+}
+.profile h1 {
+   text-align: center;
+   font-size: 2vw;
+   color: #FFFFFF;
+}
+/*footer style*/
+footer {
+   text-align: left; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 20px;
+   color: #000000;
+   font-family: sans-serif;
+}
