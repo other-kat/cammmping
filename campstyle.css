@@ -4,7 +4,7 @@ header {
    padding: 20px;
    color: #ADD8E6;
    background-color: #000000;
-   background-image: url("trees2.jpg");
+   background-image: url("campboard/trees2.JPG");
    font-size: 2vw;
    font-family: sans-serif;
 }
@@ -19,7 +19,7 @@ nav {
    font-size: medium;
    font-size: 2vw;
    Padding: 10px;
-   background-image: url("trees1.jpg");
+   background-image: url("campboard/trees1.JPG");
    font-family: sans-serif;
    color: #ADD8E6;
    accent-color: #000000;
@@ -33,7 +33,7 @@ main {
    font-size: smaller;
    font-size: 2vw;
    color: #7b0252;
-   background-image: url("trees1.jpg");
+   background-image: url("campboard/trees1.JPG");
    font-family: sans-serif;
 }
 /*body style*/
@@ -45,7 +45,7 @@ body {
    font-size: 2vw;
    padding: 10px;
    color: #ADD8E6;
-   background-image: url("trees1.jpg");
+   background-image: url("campboard/trees1.JPG");
    font-family: sans-serif;
 }
 /*alert style*/
