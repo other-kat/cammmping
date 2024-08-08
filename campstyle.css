@@ -41,6 +41,7 @@ body {
    text-align: left;
    word-spacing: 30px;
    margin-left: 5px;
+   text-align: left;
    font-size:medium;
    font-size: 2vw;
    padding: 10px;
@@ -67,7 +68,7 @@ nav a {
    font-size: 2vw;
 }
 a {
-   color: #00008b;
+   color: #ba55d3;
 }
 .profile h1 {
    text-align: center;
